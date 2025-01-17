@@ -1,1 +1,1 @@
-module Gotils
+module github.com/TrippleAWap/Gotils
